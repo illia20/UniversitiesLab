@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35581869693",
+    "project_id": "univmapstes",
+    "storage_bucket": "univmapstes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35581869693:android:527635abd2c750a4a17b14",
+        "android_client_info": {
+          "package_name": "com.example.universitieslab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35581869693-5a0ltqokhglte9hfpasq5ichnqshfg5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdu5cBNm4x83ftWP69lNnqxjNmDFaAXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35581869693-5a0ltqokhglte9hfpasq5ichnqshfg5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

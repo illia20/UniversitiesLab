@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UniversitiesLab</string>
+    <string name="greeting_text">Лабораторна робота 2. Університети України</string>
+    <string name="title_button_about">Про автора</string>
+    <string name="title_button_list">Список університетів</string>
+    <string name="title_button_selection">Вибірка</string>
+    <string name="title_button_maxminuniv">Кращі і гірші</string>
+</resources>
